@@ -40,10 +40,10 @@ function About() {
                 <div className="card-body text-center">
                     <h4>Student Information</h4>
                     <p className="mb-1">
-                        <strong>Name:</strong> Your Name
+                        <strong>Name:</strong> Bedria Abokor Hashi
                     </p>
                     <p>
-                        <strong>Student ID:</strong> Your Student ID
+                        <strong>Student ID:</strong> 260248
                     </p>
                 </div>
             </div>
